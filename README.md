@@ -3,8 +3,6 @@
 ### 1.router
 ### 2.store</h1>
 
-> A Vue.js project
-
 ## Build Setup
 
 ``` bash
